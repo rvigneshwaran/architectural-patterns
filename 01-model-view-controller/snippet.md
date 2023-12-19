@@ -1,3 +1,5 @@
+(MVC) architectural pattern using the context of Harry Potter characters. This example involves a basic model representing Harry Potter characters, a view for displaying character information, and a controller to handle user input.
+
 ```python
 # Model
 class Character:
